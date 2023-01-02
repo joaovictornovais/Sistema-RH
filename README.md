@@ -1,4 +1,4 @@
-# Systema RH 👤
+# Sistema RH 👤
 Sistema de Recursos Humanos feito com Microserviços
 
 ## Tecnologias 🚀
